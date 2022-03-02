@@ -1,0 +1,20 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.9)
+  - OTPFieldView (1.0.1)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - OTPFieldView
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - OTPFieldView
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 6e839c575c4aa1078d58a596e41244e77abe918f
+  OTPFieldView: 700a752fe62c41d1c4914c78aa500fb30d97c255
+
+PODFILE CHECKSUM: e38094737085e052383032a999cd6db88edf5dac
+
+COCOAPODS: 1.11.2
